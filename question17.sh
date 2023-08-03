@@ -16,8 +16,7 @@ git add . && git commit -m "Update branch1"
 
 # branch2
 git checkout branch2
-echo "Hello World" > ./dir1/dir2/foo
-mv ./dir1/dir2/foo ./dir1/dir2/foo_modified
+mv ./dir1/dir2/foo ./dir1/dir2/foo_odified
 rm ./dir3/bar
 touch ./dir3/newfile2
 git add . && git commit -m "Update branch2"
