@@ -1,2 +1,2 @@
 #!/bin/bash
-git add '**/*.py'
+git add ./*.py
